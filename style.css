@@ -1,0 +1,16 @@
+.odd {
+    background-color: #ff000080;
+}
+
+.font-size{
+    font-size: 30px;
+}
+
+#two {
+    color: #0000ff;
+    font-size: 55px;
+}
+#four{
+    background-color: #00ff00;
+    font-weight: bold;
+}
